@@ -23,3 +23,4 @@ export interface MonthlyDataPoint {
   outcome: number
   profitPercent: number
 }
+
